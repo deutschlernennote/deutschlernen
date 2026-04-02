@@ -1,4 +1,6 @@
-[
-  { "name": "fruit.json", "hash": "abc123" },
-  { "name": "nation.json", "hash": "def457" }
-]
+{
+  "words.json": {
+    "hash": "2627beb2bbf221406d8c7fa143cf53170dbafcc18ea3f956d6fa28f965689495",
+    "updated": "2026-04-02T13:51:32.972950"
+  }
+}

@@ -5,8 +5,7 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import messagebox
 
-WORDS_FILE = "data/words.json"
-INDEX_FILE = "index.json"
+INDEX_FILE = "./notes/index.json"
 
 entries = []
 
@@ -47,7 +46,7 @@ def upload():
         messagebox.showwarning("경고", "파일명 입력 필요")
         return
 
-    filepath = f"data/{filename}.json"
+    filepath = f"./notes/{filename}.json"
 
     new_data = []
     for ko_entry, de_entry in entries:
