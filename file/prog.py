@@ -26,7 +26,7 @@ def calc_hash(path):
         return hashlib.sha256(f.read()).hexdigest()
 
 def add_row():
-    frame = tk.Frame(root)
+    frame = tk.Frame(rows_container)
     frame.pack(pady=5)
 
     ko_entry = tk.Entry(frame, width=20)
@@ -41,29 +41,35 @@ def add_row():
     entries.append((ko_entry, de_entry))
 
 def upload():
-    new_data = []
+    filename = filename_entry.get().strip()
 
+    if not filename:
+        messagebox.showwarning("경고", "파일명 입력 필요")
+        return
+
+    filepath = f"data/{filename}.json"
+
+    new_data = []
     for ko_entry, de_entry in entries:
         ko = ko_entry.get().strip()
         de = de_entry.get().strip()
-
         if ko and de:
             new_data.append({"ko": ko, "de": de})
 
     if not new_data:
-        messagebox.showwarning("경고", "유효한 입력이 없음")
+        messagebox.showwarning("경고", "유효한 입력 없음")
         return
 
-    # 기존 데이터 로드 (append)
-    words = load_json(WORDS_FILE, [])
+    # 기존 파일 로드 (없으면 새로 생성)
+    words = load_json(filepath, [])
     words.extend(new_data)
-    save_json(WORDS_FILE, words)
+    save_json(filepath, words)
 
     # hash 갱신
     index = load_json(INDEX_FILE, {})
-    new_hash = calc_hash(WORDS_FILE)
+    new_hash = calc_hash(filepath)
 
-    index["words.json"] = {
+    index[f"{filename}.json"] = {
         "hash": new_hash,
         "updated": datetime.now().isoformat()
     }
@@ -77,13 +83,25 @@ def upload():
 
     messagebox.showinfo("완료", "업로드 완료")
 
-# GUI
+# ===== GUI =====
 root = tk.Tk()
 root.title("Word Uploader")
 
-add_row()
+# 🔹 상단 고정 영역
+top_frame = tk.Frame(root)
+top_frame.pack(pady=10)
 
-upload_btn = tk.Button(root, text="업로드", command=upload)
-upload_btn.pack(pady=20)
+filename_entry = tk.Entry(top_frame, width=20)
+filename_entry.pack(side="left", padx=5)
+filename_entry.insert(0, "words")  # 기본값
+
+upload_btn = tk.Button(top_frame, text="업로드", command=upload)
+upload_btn.pack(side="left", padx=5)
+
+# 🔹 입력 rows 영역
+rows_container = tk.Frame(root)
+rows_container.pack(pady=10)
+
+add_row()
 
 root.mainloop()
