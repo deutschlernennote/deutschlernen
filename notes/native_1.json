@@ -46,5 +46,29 @@
   {
     "ko": "여기 네가 저번에 빌려준 20센트야. - 에이 아니야. 20센트는 돌려줄 필요 없어.",
     "de": "Hier sind die 20 Cent, die du mir zuletzt ausgeliehen hast. - Ach, nicht doch. 20 Cent musst du mir nicht zurückgeben."
+  },
+  {
+    "ko": "이제 와서 과제를 제출하는 건 아무 소용없지, 그치?",
+    "de": "Jetzt noch die Hausarbeit einzureichen, bringt nichts, oder?"
+  },
+  {
+    "ko": "아니. 내가 너람변 그래도 낼거야. 내 말은 그러니까 아예 안 내는 것보다는 늦는게 낫잖아, 안그래?",
+    "de": "Doch. An deine stelle würde ich sie noch einreichen. Ich meine, besser spät als nie, oder?"
+  },
+  {
+    "ko": "내 나이에는 새로운 취미를 시작하는게 쉽지 않아.",
+    "de": "In meinem Alter ist es nicht leicht, ein neues Hobby anzufangen."
+  },
+  {
+    "ko": "아니야, 그렇게 말하지 마. 아무것도 안하는 것보다는 늦게라도 하는게 나아.",
+    "de": "Nein, sag das doch nicht so. Besser spät als nie."
+  },
+  {
+    "ko": "걔는 그걸 이해하는데 그렇게나 오래 걸렸어.",
+    "de": "Er hat so lange gebraucht, um es verstehen."
+  },
+  {
+    "ko": "네가 답답해 하는것도 이해가 가는데, 아예 이해 못하는것보다야 늦게라도 하는게 낫지",
+    "de": "Ich kann verstehen, dass du frustriert bist, aber besser spät als nie."
   }
 ]
