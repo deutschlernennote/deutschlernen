@@ -93,11 +93,11 @@
   },
   {
     "ko": "다들 안녕! 너네 영화관 가니? 나도 갈래!",
-    "de": "Hallo, zusammen! Geht ihr ins Kino? Ich mitkomme auch!"
+    "de": "Hallo, zusammen! Geht ihr ins Kino? Ich komme auch mit!"
   },
   {
     "ko": "우리 이제 갈래? 영화가 4시에 시작하잖아.",
-    "de": "Gehen wir jetzt los? Der Film anfängt um 4 Uhr."
+    "de": "Gehen wir jetzt los? Der Film fängt um 4 Uhr an."
   },
   {
     "ko": "나 독일어 수업때문에 내 책이 필요한데. 다시 갔다줄수 있어? - 오 미안 내가 내일 다시 가져다줄게.",
@@ -138,5 +138,37 @@
   {
     "ko": "파울, 좀 씻어라! 엘케, 설거지좀 해!",
     "de": "Paul, wasch dich! Elke, wasch ab!"
+  },
+  {
+    "ko": "그러면 나 청소하는것좀 도와줄래?",
+    "de": "Hillfst du mir dann beim Saubermachen?"
+  },
+  {
+    "ko": "응 기꺼이 도와줄게. 말 나온김에, 나 아침 8시에 깨워줄래?",
+    "de": "Ja, ich helfe dir gern. Apropos, weckst du mich bitte um 8 Uhr morgen?"
+  },
+  {
+    "ko": "너는 소파에서 자, 침대에서 자?",
+    "de": "Schläfst du auf dem Sofa oder im Bett?"
+  },
+  {
+    "ko": "넌 얼마나 오래 자?",
+    "de": "Wie lange schläfst du?"
+  },
+  {
+    "ko": "나는 대체로 7시간 자.",
+    "de": "Ich schlafe meistens sieben Stunden."
+  },
+  {
+    "ko": "그녀는 대학에서 영어와 이탈리아어를 전공한다.",
+    "de": "Sie studiert Englisch und Italienisch an der Universität."
+  },
+  {
+    "ko": "나 영화봐. 영화는 11시에 끝나.",
+    "de": "Ich schaue mir einen Film an. Der Film endet um 11 Uhr."
+  },
+  {
+    "ko": "너 숙제 끝낼 수 있어?",
+    "de": "Kannst du deine Hausaufgabe erledigen?"
   }
 ]
