@@ -226,5 +226,37 @@
   {
     "ko": "부모님 건강은 어떠셔?",
     "de": "Wie ist das Befinden der Eltern."
+  },
+  {
+    "ko": "나는 항상 늦게 잔다. <-> 나는 한번도 늦게 자지 않는다.",
+    "de": "Ich schlafe immer spät. <-> Ich schlafe nie spät."
+  },
+  {
+    "ko": "나는 학교의 모두를 안다. <-> 나는 학교의 아무도 모른다.",
+    "de": "Ich kenne alle in der Schule. <-> Ich kenne niemand in der Schule."
+  },
+  {
+    "ko": "뭐 먹고싶어? - 나는 아무것도 안먹을래.",
+    "de": "Möchtest du etwas essen?- Ich esse nichts."
+  },
+  {
+    "ko": "한국에 와본적 있어? - 나는 아직 한국에 안가봤어.",
+    "de": "Warst du schon mal in Korea?"
+  },
+  {
+    "ko": "너 아직 배고파? - 난 더이상 배고프지 않아.",
+    "de": "Bist du noch hungrig? - Ich bin nicht mehr hungrig."
+  },
+  {
+    "ko": "아직 돈 있어? - 아니, 돈 없어.",
+    "de": "Hast du noch Geld? - Nein, ich habe kein Geld."
+  },
+  {
+    "ko": "바쁘세요?",
+    "de": "Sind Sie beschäftigt?"
+  },
+  {
+    "ko": "글쎄요, 나는 일때문에 바쁜건 아니에요. 하지만 부모님이 베를린으로 오고계셔요.",
+    "de": "Na ja, ich bin nicht mit der Arbeit beschäftigt. Aber meine Eltern kommen jetzt nach Berlin."
   }
 ]
