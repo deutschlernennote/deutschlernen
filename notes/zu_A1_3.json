@@ -70,5 +70,49 @@
   {
     "ko": "아침으로 뭘 먹고싶어?",
     "de": "Was möchtest du zum Frühstück essen?"
+  },
+  {
+    "ko": "이것은 얼마예요?",
+    "de": "Wie viel kostet das? / Wie teuer ist es?"
+  },
+  {
+    "ko": "이 책상은 얼마예요?",
+    "de": "Wie viel kostet der Tisch?"
+  },
+  {
+    "ko": "이 것은 100유로 입니다.",
+    "de": "Er kostet 100 Euro."
+  },
+  {
+    "ko": "아주 비싸네요.",
+    "de": "Das ist sehr teuer."
+  },
+  {
+    "ko": "와, 싸네요.",
+    "de": "Wow, das ist ja billig."
+  },
+  {
+    "ko": "매우 적당한 가격이네요.",
+    "de": "Sehr günstig."
+  },
+  {
+    "ko": "좋은 가격(제시)이에요.",
+    "de": "Das ist ein super Angebot."
+  },
+  {
+    "ko": "이 의자에 대해서 어떻게 생각해요?",
+    "de": "Wie finden Sie den Stuhl?"
+  },
+  {
+    "ko": "이 카페트 예쁘다고 생각해?",
+    "de": "Findest du diesen Teppich schön?"
+  },
+  {
+    "ko": "그 침대는 너무 작다.",
+    "de": "Das Bett ist zu klein."
+  },
+  {
+    "ko": "나는 그 의자를 세련되다고 생각해.",
+    "de": "Ich finde den Stuhl schick."
   }
 ]
