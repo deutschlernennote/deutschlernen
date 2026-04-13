@@ -78,5 +78,21 @@
   {
     "ko": "너희는 어떻게 지내니?",
     "de": "Wie geht es euch?"
+  },
+  {
+    "ko": "성함이 어떻게 되세요?",
+    "de": "Wie heißen Sie? / Wie ist Ihr Name?"
+  },
+  {
+    "ko": "이름이 어떻게 돼?",
+    "de": "Wie heißt du? / Wie ist dein Name?"
+  },
+  {
+    "ko": "나는 Jay입니다.",
+    "de": "Ich heiße Jay. / Ich bin Jay."
+  },
+  {
+    "ko": "내 이름은 Jay입니다.",
+    "de": "Mein Name ist Jay."
   }
 ]
