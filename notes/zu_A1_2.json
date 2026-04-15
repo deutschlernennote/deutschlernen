@@ -70,5 +70,45 @@
   {
     "ko": "천만에요",
     "de": "Gern geschehen."
+  },
+  {
+    "ko": "너는 어떤 언어들을 말하니?",
+    "de": "Welche Sprachen sprichst du?"
+  },
+  {
+    "ko": "나는 러시아어를 거의 못해.",
+    "de": "Ich spreche kaum Russisch"
+  },
+  {
+    "ko": "너는 어떤 외국어들을 말하니?",
+    "de": "Welche Fremdsprachen sprichst du?"
+  },
+  {
+    "ko": "포르투갈어 조금 하고 러시아어는 진짜 잘해. 너는?",
+    "de": "Ein bisschen Portugiesisch und richtig gut Russisch. Und du?"
+  },
+  {
+    "ko": "모두가 학교에서 영어를 배운다.",
+    "de": "Englisch lernt jeder in der Schule."
+  },
+  {
+    "ko": "그밖에 많은 독일인들이 프랑스어를 한다.",
+    "de": "Außerdem sprechen viele Deutsche Französisch."
+  },
+  {
+    "ko": "다른 인기있는 외국어는 예컨데 스페인어와 이탈리아어다.",
+    "de": "Andere beliebte Fremdsprachen zum Beispiel Spanisch und Italienisch."
+  },
+  {
+    "ko": "독일의 많은 학부들에서 라틴어 자격증이 필요하다.",
+    "de": "Für manche Studienfächer braucht man in Deutschland ein Latein-Zertifikat."
+  },
+  {
+    "ko": "실용적인 이유는 아니고, 그저 전통이다.",
+    "de": "Das hat keinen praktischen Grund, nur Tradition."
+  },
+  {
+    "ko": "너 오늘 언제까지 일해?",
+    "de": "Bis wann arbeitest du heute?"
   }
 ]
