@@ -221,7 +221,7 @@
   },
   {
     "ko": "너 오늘 오후 3시에 시간 있니?",
-    "de": "Hast du huete Nachmittag um 3 Uhr Zeit?"
+    "de": "Hast du heute Nachmittag um 3 Uhr Zeit?"
   },
   {
     "ko": "언제가 당신에게 잘 맞나요?",
@@ -245,7 +245,7 @@
   },
   {
     "ko": "마리아네, 금요일 아침에 시간 있어?",
-    "de": "Marianne, hast du am Freitagsmoragen Zeit?"
+    "de": "Marianne, hast du am Freitagsmorgen Zeit?"
   },
   {
     "ko": "아침에는 시간이 없어. 하지만 오후부터는 시간이 있어.",
@@ -257,11 +257,11 @@
   },
   {
     "ko": "우리 드디어 언제 다시한번 만나? 너무 오래됐다!",
-    "de": "Es ist schon zu lange her!"
+    "de": "Wann sehen wir uns endlich noch mal? Es ist schon zu lange her!"
   },
   {
     "ko": "저녁에 괜찮아? 그러니까 5시쯤에?",
-    "de": "passt es dir am Abend? So gegen fünf Uhr?"
+    "de": "Passt es dir am Abend? So gegen fünf Uhr?"
   },
   {
     "ko": "나는 4시면 벌써 일이 끝나. 영화 어때?",
@@ -278,5 +278,65 @@
   {
     "ko": "같이 가자!",
     "de": "Komm mit!"
+  },
+  {
+    "ko": "실례합니다.",
+    "de": "Verzeihung. / Entschuldigen Sie."
+  },
+  {
+    "ko": "실례합니다만, 저는 냄비를 찾고 있습니다.",
+    "de": "Entschuldigung, ich suche Töpfe."
+  },
+  {
+    "ko": "남성복 코너는 어디에 있죠?",
+    "de": "Wo finde ich die Herrenabteilung?"
+  },
+  {
+    "ko": "카펫은 어디에 있나요?",
+    "de": "Wo gibt es hier Teppiche?"
+  },
+  {
+    "ko": "금연구역이 어디에요?",
+    "de": "Wo befindet sich der Nichtraucherbereich?"
+  },
+  {
+    "ko": "침대들은 어디에 있나요?",
+    "de": "Wo finde ich Betten?"
+  },
+  {
+    "ko": "침대들은 2층에 있어요.",
+    "de": "Betten finden Sie im ersten Stock."
+  },
+  {
+    "ko": "실례합니다만, 화장실이 어디에 있어요?",
+    "de": "Verzeihung, wo finde ich die Toilette?"
+  },
+  {
+    "ko": "화장실은 3층에 있습니다.",
+    "de": "Die Toiletten befinden sich im zweiten Stock."
+  },
+  {
+    "ko": "전자제품 코너는 어디에 있나요?",
+    "de": "Wo finde ich die Abteilung für Elektrogeräte."
+  },
+  {
+    "ko": "그건 7층에 있습니다.",
+    "de": "Sie befindet sich im 6. Stock."
+  },
+  {
+    "ko": "거기 식기세척기도 있나요?",
+    "de": "Gibt es dort auch Spülmaschinen?"
+  },
+  {
+    "ko": "아니요, 주방가전은 5층에 있습니다.",
+    "de": "Nein, Küchengeräte befinden sich im 4. Stock."
+  },
+  {
+    "ko": "주방기기",
+    "de": "Küchenwaren"
+  },
+  {
+    "ko": "스포츠코너는 1층에 있습니다.",
+    "de": "Die Sportabteilung ist im Erdgeschoss."
   }
 ]
