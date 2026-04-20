@@ -70,5 +70,61 @@
   {
     "ko": "이 요리에 나물을 사용할 수 있습니다.",
     "de": "Man kann für dieses Gericht Kräuter benutzen."
+  },
+  {
+    "ko": "한 달짜리 정기권은 너무 비싸.",
+    "de": "Das Monatsticket ist so teuer."
+  },
+  {
+    "ko": "그럼 그냥 걸어서 가.",
+    "de": "Dann geh doch einfach zu Fuß."
+  },
+  {
+    "ko": "걸어서? 그럼 학교까지 대략 50분은 걸리는데.",
+    "de": "Zu Fuß? Dann brauche ich zur Uni fast 50 Minuten."
+  },
+  {
+    "ko": "아 그래? 그럼 자전거를 타. 건강에 좋아.",
+    "de": "Ach so? Dann nimm doch das Fahrrad. Das ist gut für die Gesundheit."
+  },
+  {
+    "ko": "나쁜 생각은 아닌데. 그럼 자전거를 타고 한 번 가봐야겠다.",
+    "de": "Keine schlechte Idee. Dann fahre ich mal mit dem Fahrrad."
+  },
+  {
+    "ko": "헬리콥터",
+    "de": "der Hubschrauber(-)"
+  },
+  {
+    "ko": "자전거 거치대",
+    "de": "die Fahrradständer"
+  },
+  {
+    "ko": "편리한",
+    "de": "komfortabel"
+  },
+  {
+    "ko": "자전거전용도로",
+    "de": "die Radwege"
+  },
+  {
+    "ko": "음식점, 선술집, 클럽",
+    "de": "die Kneipe"
+  },
+  {
+    "ko": "분명한",
+    "de": "bestimmt"
+  },
+  {
+    "ko": "그 대학은 대중교통으로 접근하기 좋다.",
+    "de": "Die Uni ist mit öffentlichen Verkehrsmitteln gut zu erreichen."
+  },
+  {
+    "ko": "그 대학은 정류장으로부터 멀리 떨어져 있다.",
+    "de": "Die Universität ist weit von der Haltestelle entfernt."
+  },
+  {
+    "ko": "'대학교' 정류장으로부터 걸어서 겨우 3분밖에 안걸린다.",
+    "de": "Von der Haltestelle 'Universität' aus sind es nur 3 Minuten zu Fuß."
   }
 ]
