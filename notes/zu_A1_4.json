@@ -126,5 +126,77 @@
   {
     "ko": "'대학교' 정류장으로부터 걸어서 겨우 3분밖에 안걸린다.",
     "de": "Von der Haltestelle 'Universität' aus sind es nur 3 Minuten zu Fuß."
+  },
+  {
+    "ko": "실례합니다만, 우체국으로 어떻게 가나요?",
+    "de": "Entschuldigung, wie komme ich zur Post?"
+  },
+  {
+    "ko": "우체국이 어딨나요?",
+    "de": "Wo ist die Post?"
+  },
+  {
+    "ko": "여기 근처에 우체국이 있나요?",
+    "de": "Gibt es hier in der Nähe eine Post?"
+  },
+  {
+    "ko": "이 주위에 슈퍼마켓이 있나요?",
+    "de": "Gibt es in dieser Gegend einen Supermarkt?"
+  },
+  {
+    "ko": "여기 은행을 어디에서 찾을 수 있나요?",
+    "de": "Wo kann ich hier eine Bank finden?"
+  },
+  {
+    "ko": "우체국에 가려고 하는데요.",
+    "de": "Ich möchte zur Post."
+  },
+  {
+    "ko": "우체국은 바로 근처에 있어요.",
+    "de": "Die Post ist ganz in der Nähe."
+  },
+  {
+    "ko": "우선 쭉 직진하세요.",
+    "de": "Gehen Sie zuerst immer geradeaus."
+  },
+  {
+    "ko": "그리고 두 번째 길에서 오른쪽으로 가세요.",
+    "de": "Dann gehen Sie die zweite Straße nach rechts."
+  },
+  {
+    "ko": "왼편에 우체국이 보일 거예요.",
+    "de": "Auf der linken Seite sehen Sie dann die Post."
+  },
+  {
+    "ko": "멀어요. 버스타고 가시는게 좋을거에요.",
+    "de": "Das ist weit. Fahren Sie besser mit dem Bus."
+  },
+  {
+    "ko": "세 정거장입니다. (가시면 되요.)",
+    "de": "Das sind drei Stationen."
+  },
+  {
+    "ko": "괴테거리에서 내리세요.",
+    "de": "Steigen Sie an der Goethestraße aus."
+  },
+  {
+    "ko": "실례지만, 이 주위에 우체국이 있나요?",
+    "de": "Entschuldigen Sie, gibt es hier in der Gegend eine Post?"
+  },
+  {
+    "ko": "그건 중앙역 안에 있습니다.",
+    "de": "Sie ist im Hauptbahnhof."
+  },
+  {
+    "ko": "여기서 중앙역까지 어떻게 가나요?",
+    "de": "Wie komme ich 'von hier aus' zum Hauptbahnhof?"
+  },
+  {
+    "ko": "이 길을 따라 약 10분 정도 쭉 가세요. 그러면 오른쪽에 중앙역이 보일 거예요.",
+    "de": "Gehen Sie auf dieser Straße ungefähr 10 Minuten geradeaus. Dann sehen Sie den Hauptbahnhof rechts."
+  },
+  {
+    "ko": "보행자",
+    "de": "der Fußgänger"
   }
 ]
