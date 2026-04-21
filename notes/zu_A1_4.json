@@ -198,5 +198,53 @@
   {
     "ko": "보행자",
     "de": "der Fußgänger"
+  },
+  {
+    "ko": "대략",
+    "de": "circa(zirka), etwa, ungefähr"
+  },
+  {
+    "ko": "교차로",
+    "de": "die Kreuzung"
+  },
+  {
+    "ko": "횡단하다",
+    "de": "überqueren"
+  },
+  {
+    "ko": "사거리까지 직진하세요, 사거리에서 오른쪽으로 약 20미터 직진하세요.",
+    "de": "Gehen Sie geradeaus bis zur Kreuzung, an der Kreuzung rechts und etwa 20 Meter geradeaus."
+  },
+  {
+    "ko": "오 그렇다면 나는 빨리 가는게 좋겠어. 고마워요!",
+    "de": "Oh, dann gehe ich besser schnell. Danke schön!"
+  },
+  {
+    "ko": "그러면 프리드리히 거리까지 직진하세요.",
+    "de": "Gehen Sie dann geradeaus bis zur Friedrichstraße."
+  },
+  {
+    "ko": "회전하다, 돌다",
+    "de": "abbiegen"
+  },
+  {
+    "ko": "거기서 오른쪽으로 돌아서 두번째 교차로까지 가세요.",
+    "de": "Biegen Sie dort rechts ab und gehen Sie bis zur zweiten Kreuzung."
+  },
+  {
+    "ko": "그리고 왼쪽으로 돌고 곧장 가세요.",
+    "de": "Biegen Sie dann links ab und gehen Sie geradeaus."
+  },
+  {
+    "ko": "대략 5분정도 걸으시면, 큰 슈퍼마켓이 있습니다.",
+    "de": "Laufen Sie ungefähr fünf Minuten, dann kommt ein großer Supermarkt."
+  },
+  {
+    "ko": "슈퍼마켓 옆에 은행이 있어요.",
+    "de": "Neben dem Supermarkt ist die Bank."
+  },
+  {
+    "ko": "한번 생각해 봐야겠다.",
+    "de": "Ich muss es mir mal überlegen."
   }
 ]
