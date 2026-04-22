@@ -318,5 +318,49 @@
   {
     "ko": "네 사전 쓸 수 있을까?",
     "de": "Kann ich dein Wörterbuch benutzen?"
+  },
+  {
+    "ko": "나는 5번 승강장에서 타.",
+    "de": "Ich steige auf Gleis 5 ein."
+  },
+  {
+    "ko": "나는 기차역에서 내려.",
+    "de": "Ich steige am Bahnhof aus."
+  },
+  {
+    "ko": "다음 정거장에서 우리는 갈아타.",
+    "de": "An der nächsten Station steigen wir um."
+  },
+  {
+    "ko": "너는 집에서 언제 출발해?",
+    "de": "Wann fährst von zu Hause los?"
+  },
+  {
+    "ko": "티켓 없으면 벌금이 있다, 대부분은 60유로 정도이다.",
+    "de": "Ohne Ticket gibt es dann eine Strafe, meistens um die 60 Euro."
+  },
+  {
+    "ko": "그리고 많은 벌금 이후에는 심지어 고소가 발생할 수 있다.",
+    "de": "Und nach mehreren Strafen kann es sogar eine Anzeige geben."
+  },
+  {
+    "ko": "떠나가다",
+    "de": "weggehen"
+  },
+  {
+    "ko": "그만두다",
+    "de": "aufhören"
+  },
+  {
+    "ko": "가르치다, 알려주다",
+    "de": "beibringen"
+  },
+  {
+    "ko": "살이 찌다",
+    "de": "zunehmen"
+  },
+  {
+    "ko": "베껴쓰다",
+    "de": "abschreiben"
   }
 ]
