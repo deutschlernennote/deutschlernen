@@ -41,7 +41,7 @@
   },
   {
     "ko": "벌써 너무 늦었네. 빨리 집에 가야겠다.",
-    "de": "Es ist schon zu spät. Ich muss schnell nacch Hause."
+    "de": "Es ist schon zu spät. Ich muss schnell nach Hause."
   },
   {
     "ko": "나는 시험공부를 지금 안해도 된다.",
@@ -69,7 +69,7 @@
   },
   {
     "ko": "당신은 기꺼이 맛있는 케이크들과 토르테들을 굽고, 다른 제빵 애호가들을 알고 싶나요?",
-    "de": "Möchtest du gern köstliche Kuchen und Torten backen und andere Back-Fans kennenlernen?"
+    "de": "Möchten Sie gern köstliche Kuchen und Torten backen und andere Back-Fans kennenlernen?"
   },
   {
     "ko": "그렇다면 우리 제빵수업에 연락하세요!",
@@ -90,5 +90,65 @@
   {
     "ko": "그렇지 않으면 수업에 참여하실 수 없습니다.",
     "de": "Sonst können sie nicht am Kurs teilnehmen."
+  },
+  {
+    "ko": "넌 도대체 여기 있어도 되는거야?",
+    "de": "Darfst du überhaupt hier sein?"
+  },
+  {
+    "ko": "누구도 그걸 알아선 안돼.",
+    "de": "NIemand darf das noch wissen."
+  },
+  {
+    "ko": "독일어수업에서 모든 학생들은 그들의 모국어를 사용하면 안 된다.",
+    "de": "Im Deutschunterricht dürfen die Schüler nicht in Ihrer Muttersprache sprechen."
+  },
+  {
+    "ko": "이제 드디어 햄스터 한 마리 사도 돼?",
+    "de": "Darf ich mir jetzt endlich einen Hamster kaufen?"
+  },
+  {
+    "ko": "그러면 철장, 물통, 작은 침대 그리고 사료까지 사야 해.",
+    "de": "Dann musst du auch den Käfig, die Wasserflasche, das Bettchen und das Futter kaufen."
+  },
+  {
+    "ko": "나도 한번 만져봐도 될까?",
+    "de": "Darf ich ihn dann auch mal streicheln?"
+  },
+  {
+    "ko": "응, 하지만 손을 천천히 움직여야 해.",
+    "de": "Ja, aber du darfst deine Hand nur langsam bewegen."
+  },
+  {
+    "ko": "연방의회선거에 대해서는 독일인들은 또한 18세부터 투표할 수 있다.",
+    "de": "Bei den Bundestagswahlen dürfen Deutsche auch ab 18 Jahren wäheln"
+  },
+  {
+    "ko": "모든 것에 대해서 18번째 생일까지 기다려야한다. 맥주를 제외하고는.",
+    "de": "Auf alles muss man warten bis zum 18. Geburtstag. Nur nicht auf Bier."
+  },
+  {
+    "ko": "독일에서는 청소년들이 16세부터 맥주, 와인, 샴페인을 마실 수 있다.",
+    "de": "In Deutschland dürfen Jugendliche schon ab 16 Jahren Bier, Wein und Sekt trinken."
+  },
+  {
+    "ko": "mehr과 weniger은 형용사 어미변화를 하지 않는다.",
+    "de": "[알아둬라.]"
+  },
+  {
+    "ko": "18세부터 칵테일을 마실 수 있다.",
+    "de": "Mit 18 darf man Cocktails trinken."
+  },
+  {
+    "ko": "실례합니다. 여기서 사진 찍어도 되나요?",
+    "de": "Entschuldigung, darf ich hier Fotos machen?"
+  },
+  {
+    "ko": "아뇨, 안될것 같은데요.",
+    "de": "Nein, ich fürchte, das ist nicht erlaubt."
+  },
+  {
+    "ko": "저기 표지판 보이세요? 표지판 위에 \"사진촬영 금지\" 라고 써져있어요.",
+    "de": "Sehen Sie das Schild da? Auf dem Schild steht : \"Fotografieren verboten\"."
   }
 ]
