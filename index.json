@@ -1,5 +1,5 @@
 {
-  "NW_A2.json": {
+  "etc/NW_A2.json": {
     "hash": "3c0c4a77b247749a27a7de8cbefc251966a8ea822911a9d7ac988cbe00e689e2",
     "updated": "2026-04-02T16:26:08.067602"
   },
@@ -11,7 +11,7 @@
     "hash": "d98dd44ec1cd462f868c0448caec8634028988b961be4aab12e271b8a2009485",
     "updated": "2026-04-07T11:45:47.624677"
   },
-  "Gram_A1.json": {
+  "Gram/Gram_A1.json": {
     "hash": "d3f6f0f714a042d614da90605d0629ae934a77f445530428f3d0a93946b6fbf6",
     "updated": "2026-04-15T12:29:08.737850"
   },
@@ -19,52 +19,32 @@
     "hash": "1ee52a440720669197bbe0529624815db25b7d1c8107a64df1c00ff9d0f74547",
     "updated": "2026-04-10T14:55:09.786967"
   },
-  "zu_A1_3.json": {
+  "zu_A1/_3.json": {
     "hash": "b8bef206f10f6678aa7085854c20055bc21f0da4d6c0d4ab2247cfaebbd80215",
     "updated": "2026-04-22T13:14:30.341281"
   },
-  "zu_A1_1.json": {
+  "zu_A1/_1.json": {
     "hash": "e30b235aa192ce9c0195ed06536166cf8f8ff162a79b579350fa144f4dd47c73",
     "updated": "2026-04-14T11:49:26.419576"
   },
-  "zu_A1_2.json": {
+  "zu_A1/_2.json": {
     "hash": "13e0cbc2568b5236a0bf918f3ccd8e88b3b419fbff822aa6cac3bce439eae9ad",
     "updated": "2026-04-20T10:58:27.922423"
   },
-  "Gram_B1.json": {
+  "Gram/Gram_B1.json": {
     "hash": "3202cea09bbfd9d652a3fc8ddeda59b8c9fe2969d7f10a5150d02a83ca9dfe4b",
     "updated": "2026-04-13T14:10:45.711784"
   },
-  "zu_A1_4.json": {
+  "zu_A1/_4.json": {
     "hash": "d89fac0cbaea13c74bd60a03a9f101a7cca555ba404d29ee2267b39c63017b9b",
     "updated": "2026-04-21T11:25:25.084920"
   },
-  "zu_A1_6.json": {
+  "zu_A1/_6.json": {
     "hash": "8fbd655e8593a71ea2ab911d902905b1aba07d018aea30bc188469452bb1c03e",
     "updated": "2026-04-26T21:30:08.340617"
   },
-  "zu_A1_5.json": {
+  "zu_A1/_5.json": {
     "hash": "5c7b3cbd7351c7ab45c744f579c5b530a26b3a73e54a8afd7fd1ea203f78f937",
     "updated": "2026-04-26T18:19:34.885824"
-  },
-  "Gram/A1.json": {
-    "hash": "10646526f744a17a9511bb82bfbbbf143347477c2a3dd042b0c6553cdcca28da",
-    "updated": "2026-04-27T10:13:10.965849"
-  },
-  "Gram/Test.json": {
-    "hash": "44ca3f92894e9ff5f857ef2f13488f5f76d1237a58f078e9188b6f9476914c79",
-    "updated": "2026-04-27T10:40:43.004238"
-  },
-  "Gram/Warum.json": {
-    "hash": "845378c4fd13dd106edf448d69e6a37673df1c8a806b7fd5854b62bc26486254",
-    "updated": "2026-04-27T10:58:02.789373"
-  },
-  "TTest.json": {
-    "hash": "f60749255b320fe49931c48925cafbd9643ec351928308a788128b1ea1357f71",
-    "updated": "2026-04-27T10:58:55.106182"
-  },
-  "Gram/real_test.json": {
-    "hash": "9df17a9e5d1ce562213b653a215f609d96a442aa8596f13866b333877ae6ebec",
-    "updated": "2026-04-27T11:58:16.655381"
   }
 }
