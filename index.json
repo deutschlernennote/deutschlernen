@@ -46,5 +46,9 @@
   "zu_A1/_5.json": {
     "hash": "5c7b3cbd7351c7ab45c744f579c5b530a26b3a73e54a8afd7fd1ea203f78f937",
     "updated": "2026-04-26T18:19:34.885824"
+  },
+  "etc/test.json": {
+    "hash": "8656071ab7b1abe61a442acd7ccaaf5939b29a662b6e232b05d7e43306a26375",
+    "updated": "2026-04-27T12:36:25.213679"
   }
 }
