@@ -139,7 +139,7 @@ top_frame.pack(pady=10)
 
 filename_entry = tk.Entry(top_frame, width=32)
 filename_entry.pack(side="left", padx=5)
-filename_entry.insert(0, "Gram/A1")
+filename_entry.insert(0, "zu_A1/_1")
 
 upload_btn = tk.Button(
     top_frame,
