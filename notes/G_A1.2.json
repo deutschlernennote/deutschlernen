@@ -25,7 +25,7 @@
   },
   {
     "ko": "그러면 3.6유로입니다.",
-    "de": "Das macht dann 3 euro 60 cents."
+    "de": "Das macht dann drei euro sechzig."
   },
   {
     "ko": "둘이서",
@@ -34,5 +34,73 @@
   {
     "ko": "그때 봐, 내가 데리러 갈게",
     "de": "Bis dann, ich hole dich ab."
+  },
+  {
+    "ko": "반대, 반의어",
+    "de": "das Gegenteil"
+  },
+  {
+    "ko": "동의어",
+    "de": "das Synonym"
+  },
+  {
+    "ko": "반의어",
+    "de": "das Antonym"
+  },
+  {
+    "ko": "어순, 언어 배열",
+    "de": "die Wortstellung"
+  },
+  {
+    "ko": "어쨌든",
+    "de": "sowieso, jedenfalls"
+  },
+  {
+    "ko": "접속사",
+    "de": "der Konnektor(breiter),      die Konjunktion(enger)"
+  },
+  {
+    "ko": "논리적인",
+    "de": "logisch"
+  },
+  {
+    "ko": "동일한, 같은 모양의",
+    "de": "identisch"
+  },
+  {
+    "ko": "회의",
+    "de": "die Besprechung, die Versammlung, die Sitzung"
+  },
+  {
+    "ko": "익숙해지다.",
+    "de": "sich[4] gewöhnen"
+  },
+  {
+    "ko": "복사하다",
+    "de": "kopieren, reproduzieren"
+  },
+  {
+    "ko": "낭비하다",
+    "de": "verschwenden"
+  },
+  {
+    "ko": "보충하다.",
+    "de": "ergänzen, sich ärgenzen"
+  },
+  {
+    "ko": "복잡한, 어려운",
+    "de": "kompliziert, diffizil, verwickelt, schwierig"
+  },
+  {
+    "ko": "비슷한",
+    "de": "ähnlich sind, sich ähneln"
+  },
+  {
+    "ko": "다른 사람들도 비슷할 것 같다.",
+    "de": "Die anderen sind wahrscheinlich auch ähnlich."
+  },
+  {
+    "ko": "a. 일상적인, 평범한, 보통의, ad. 대개, 보통",
+    "de": "gewöhnlich"
   }
 ]
