@@ -13,7 +13,7 @@
   },
   {
     "ko": "소포를 수령하다",
-    "de": "ein Packet annehmen"
+    "de": "ein Paket annehmen"
   },
   {
     "ko": "동료를 맞이하다",
@@ -85,15 +85,15 @@
   },
   {
     "ko": "보충하다.",
-    "de": "ergänzen, sich ärgenzen"
+    "de": "ergänzen, sich ergänzen"
   },
   {
     "ko": "복잡한, 어려운",
     "de": "kompliziert, diffizil, verwickelt, schwierig"
   },
   {
-    "ko": "비슷한",
-    "de": "ähnlich sind, sich ähneln"
+    "ko": "비슷한, 비슷하다",
+    "de": "ähnlich sind, sich ähneln + jm."
   },
   {
     "ko": "다른 사람들도 비슷할 것 같다.",
@@ -102,5 +102,77 @@
   {
     "ko": "a. 일상적인, 평범한, 보통의, ad. 대개, 보통",
     "de": "gewöhnlich"
+  },
+  {
+    "ko": "생략하다",
+    "de": "weglassen"
+  },
+  {
+    "ko": "이상한",
+    "de": "komisch, seltsam"
+  },
+  {
+    "ko": "순서",
+    "de": "die Reihenfolge, die Ordnung"
+  },
+  {
+    "ko": "기어오르다",
+    "de": "klettern"
+  },
+  {
+    "ko": "휴가가다",
+    "de": "in Urlaub fahren"
+  },
+  {
+    "ko": "너무 슬프다!",
+    "de": "Wie traurig!"
+  },
+  {
+    "ko": "지폐",
+    "de": "der Geldschein"
+  },
+  {
+    "ko": "뉘앙스",
+    "de": "die Nuance"
+  },
+  {
+    "ko": "요즘",
+    "de": "zurzeit, heutzutage, neulich, kürzlich"
+  },
+  {
+    "ko": "뒷면에, 뒷장에",
+    "de": "auf der Rückseite"
+  },
+  {
+    "ko": "브랜드, 상표",
+    "de": "die Marke, das Markenzeichen (das Warenzeichen)"
+  },
+  {
+    "ko": "공식화하다, 작성하다",
+    "de": "formulieren"
+  },
+  {
+    "ko": "애국자",
+    "de": "der Patriot, der Vaterlandsfreund"
+  },
+  {
+    "ko": "점쟁이",
+    "de": "der Wahrsager / die Wahrsagerin"
+  },
+  {
+    "ko": "열거하다, 호명하다.",
+    "de": "aufzahlen, aufreihen, anführen, enumerieren"
+  },
+  {
+    "ko": "대립, 반대, 대비, 대조",
+    "de": "der Gegensatz, der Kontrast"
+  },
+  {
+    "ko": "Zeitangabe",
+    "de": "문법 시간 부사어, 날짜표기, 연월일"
+  },
+  {
+    "ko": "1. 언급, 진술, 2. 지시",
+    "de": "die Angabe"
   }
 ]
