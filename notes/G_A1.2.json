@@ -161,7 +161,7 @@
   },
   {
     "ko": "열거하다, 호명하다.",
-    "de": "aufzahlen, aufreihen, anführen, enumerieren"
+    "de": "aufzählen, aufreihen, anführen, enumerieren"
   },
   {
     "ko": "대립, 반대, 대비, 대조",
@@ -174,5 +174,57 @@
   {
     "ko": "1. 언급, 진술, 2. 지시",
     "de": "die Angabe"
+  },
+  {
+    "ko": "명물, 특색, 특기",
+    "de": "die Spezialität(-en)"
+  },
+  {
+    "ko": "주제에 대한 프레젠테이션",
+    "de": "eine Präsentation zu einem Thema"
+  },
+  {
+    "ko": "현재의 주제들에 대한 토론",
+    "de": "Diskussion über aktuelle Themen"
+  },
+  {
+    "ko": "프로그램에 대한 정보",
+    "de": "Informationen zum Programm"
+  },
+  {
+    "ko": "연례 만남에 대한 초대",
+    "de": "Einladung zum Jahrestreffenr"
+  },
+  {
+    "ko": "공휴일, 휴무일",
+    "de": "der Feiertag, der Ruhetag"
+  },
+  {
+    "ko": "합창, 성가대",
+    "de": "der Chor(-:e)"
+  },
+  {
+    "ko": "습관",
+    "de": "die Gewohnheit"
+  },
+  {
+    "ko": "습관대로",
+    "de": "wie gewohnt"
+  },
+  {
+    "ko": "관광지를 방문하다",
+    "de": "eine Sehenswürdigkeit besichtigen"
+  },
+  {
+    "ko": "우리는 어느 장소를 방문해요?",
+    "de": "Welche Orte besuchen wir?"
+  },
+  {
+    "ko": "1. 수취, 수신 2.접견",
+    "de": "der Empfang"
+  },
+  {
+    "ko": "적절한",
+    "de": "angemessen, entsprechend, zutreffend"
   }
 ]
