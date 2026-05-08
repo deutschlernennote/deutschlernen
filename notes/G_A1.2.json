@@ -72,8 +72,8 @@
     "de": "die Besprechung, die Versammlung, die Sitzung"
   },
   {
-    "ko": "익숙해지다.",
-    "de": "sich[4] gewöhnen"
+    "ko": "~에 익숙해지다.",
+    "de": "sich[4] gewöhnen an etwas"
   },
   {
     "ko": "복사하다",
@@ -226,5 +226,69 @@
   {
     "ko": "적절한",
     "de": "angemessen, entsprechend, zutreffend"
+  },
+  {
+    "ko": "배경",
+    "de": "der Hintergrund"
+  },
+  {
+    "ko": "회원",
+    "de": "das Mitglied"
+  },
+  {
+    "ko": "표",
+    "de": "das Tabelle / das Schaubild, das Diagramm"
+  },
+  {
+    "ko": "맥락",
+    "de": "der Kontext, der Zusammenhang"
+  },
+  {
+    "ko": "관계",
+    "de": "die Beziehung, das Verhältnis"
+  },
+  {
+    "ko": "1. 충전하다 2. 싣다, 적재하다",
+    "de": "aufladen"
+  },
+  {
+    "ko": "전기의",
+    "de": "elektrisch"
+  },
+  {
+    "ko": "전자의",
+    "de": "elktronisch"
+  },
+  {
+    "ko": "팀",
+    "de": "das Team, die Mannschaft"
+  },
+  {
+    "ko": "그룹",
+    "de": "die Gruppe"
+  },
+  {
+    "ko": "원, 궤도, 범위",
+    "de": "der Kreis"
+  },
+  {
+    "ko": "나룻배, 페리",
+    "de": "die Fähre"
+  },
+  {
+    "ko": "연습하다",
+    "de": "trainieren, üben"
+  },
+  {
+    "ko": "호기심 많은",
+    "de": "neugierig"
+  },
+  {
+    "ko": "영역",
+    "de": "der Bereich, der Kreis"
+  },
+  {
+    "ko": "보고문, 보고서",
+    "de": "der Bericht"
   }
 ]
