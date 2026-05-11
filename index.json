@@ -54,5 +54,9 @@
   "G_A1.2.json": {
     "hash": "3d99aa9fb15f7f5aa28e0165f7ca5784756766e27bd78998b5a636cf3baa8479",
     "updated": "2026-05-08T11:01:47.794487"
+  },
+  "A1_Wort.json": {
+    "hash": "2d33cda666636f6615995eebec2ccdb1f6b9a4ab6f0dc58bb65c1c6db3843fc2",
+    "updated": "2026-05-11T10:59:40.879380"
   }
 }
